@@ -1,13 +1,13 @@
  Dev Mateus Kirigaya
 
- ## Olá! Me chamo Mateus Kirigaya
- 🐍 Atualmente estou aprendendo Python
+ ## Hi! My name is Mateus Kirigaya
+ 🐍 I'm currently learning Python
  
- 🎓 Estudo Engenharia de Software 1/8
+ 🎓 Study Software Engineering 1/8
  
  📧 Contactoribes@gmail.com
  
- 💻 Vou me tornar um Dev Full-Stack
+ 💻I'm going to become a Full-Stack Dev
 
 
 
