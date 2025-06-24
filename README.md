@@ -13,7 +13,8 @@
 ---
 
  ### 👽 Linguagens <div style="display: inline_block"><br>
-   />
+  
+/>
 <img 
     align="left" 
     alt="Python" 
