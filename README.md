@@ -4,10 +4,13 @@
  
  Hello, My name is [**Mateus Kirigaya**](contactoribes@gmail.com), I'm 18 years old and I'm new to the world of programming. I'm currently studying software engineering and learning Python. I'm looking to improve my skills and become a Full-Stack Developer in the future.
 
-* I really like Sword Art Online
-* I like competitive games and animes
+#### curiosities:
 
- Thank you very much and see you soon!
+* I like Sword Art Online
+* The name "Kirigaya" I got from Kirito from SAO
+* I REALLY LIKE SWORD ART ONLINE
+
+ Thank you very much and see you soon! 
 
    
 <div> 
