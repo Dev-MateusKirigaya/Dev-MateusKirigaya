@@ -8,26 +8,4 @@
    
 <div> 
 <a href="https://www.instagram.com/m.oribes?igsh=MWZrc3Z3Z2VjejFxOA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "contactoribes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
----
 
-
- ## 👽 Linguagens
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊Stats
- </div>
-
- ![Kirigaya GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-MateusKirigaya&show_icons=true&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MateusKirigaya&layout=compact&theme=neon)
